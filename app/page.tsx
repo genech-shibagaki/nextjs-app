@@ -36,7 +36,7 @@ export default function Home() {
               className="dark:invert"
               src="/vercel.svg"
               alt="Vercel logomark"
-              width={20}
+              width={200}
               height={20}
             />
             Deploy now
